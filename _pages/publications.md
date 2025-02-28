@@ -11,6 +11,17 @@ author_profile: true
 
 Note: ‘*’ marks co-primary authors.  
 
+* **WULoc: Achieving Extremely Long-range High-precision Localization via Wi-Fi-UWB Connection**  
+Kai Sun, Shuai Wang, **Renjie Zhao**, Ruofeng Liu, Weiwei Chen, Zhimeng Yin, Wei Gong, Shuai Wang  
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, to be published in Issue 1 of
+IMWUT Vol. 9 (March 2025)  
+
+* **NanoScatter: Towards Ambient IoT**  
+Fengyuan Zhu, Jiaqi Shen, Wenhui Li, Jianyu Luo, **Renjie Zhao**, Linling Zhong, Bingbing Wang, and Xiaohua
+Tian  
+ACM International Conference on Mobile Computing and Networking (MobiCom), 2025  
+(41 papers accepted out of 240, acceptance ratio: 17.1%, to be published)  
+
 * **Enhancing mmWave Radar Sensing Using a Phased-MIMO Architecture**  
 Kai Zheng, Wuqiong Zhao, Timothy Woodford, **Renjie Zhao**, Xinyu Zhang, and Yingbo Hua  
 22nd ACM International Conference on Mobile Systems, Applications, and Services (**MobiSys**), 2024  

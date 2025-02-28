@@ -24,6 +24,10 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 
 
 # News:  
+* 12/2024. UbiComp'24 paper: WULoc, Wi-Fi to UWB CTC for Long-Range High-precision Localization.
+* 12/2024. MobiCom'24 paper: NanoScatter, ambient IoT backscatter system with IC design.
+* 10/2024. Invited to serve on [MobiCom'25](https://www.sigmobile.org/mobicom/2025/index.html) TPC. Please consider submitting!
+* 08/2024. Invited to serve on [MobiCom'25](https://www.sigmobile.org/mobicom/2025/index.html) TPC. Please consider submitting!
 * 04/2024. MobiSys'24 paper: HybRadar, mmWave RADAR system with hybrid beamforming array.
 * 04/2024. Invited to serve on [NSDI'25](https://www.usenix.org/conference/nsdi25) TPC. Please consider submitting!
 * 11/2023. I visited groups and gave talks: Nov. 18th (first stop at SJTU), Nov. 27th to Dec. 1st in Beijing (28th at THU, 29th at PKU), Dec. 5th at NJU, 7th at USTC, 8th at HUST, 9th at NEU, 12th at ZJU, 14th at MSRA Shanghai, 16th at NWU, 25th at PolyU, 27th at CUHK, 28th at HKU. I really enjoyed the visits and conversations. Thanks for all hosts.
@@ -35,10 +39,10 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 [More](https://renjiezhao.github.io/news_archive)
 
 # Service:
-* TPC: NSDI'25, HotMobile'24
+* TPC: MobiSys'25, MobiCom'25, NSDI'25, HotMobile'25,24
 * Reviewer of IEEE/ACM Transactions on Networking, ACM Transactions on Internet of Things, IEEE Trans-
 actions on Wireless Communications, ACM Transactions on Sensor Networks, IEEE Internet Computing
 
 
 # CV:  
-* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 03/2024)
+* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 02/2025)
