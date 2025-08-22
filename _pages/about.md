@@ -24,9 +24,10 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 
 
 # News:  
-* 12/2024. UbiComp'24 paper: WULoc, Wi-Fi to UWB CTC for Long-Range High-precision Localization.
-* 12/2024. MobiCom'24 paper: NanoScatter, ambient IoT backscatter system with IC design.
-* 10/2024. Invited to serve on [MobiCom'25](https://www.sigmobile.org/mobicom/2025/index.html) TPC. Please consider submitting!
+* 08/2025. Invited to serve on [MobiCom'26](https://www.sigmobile.org/mobisys/2025/) TPC. Please consider submitting!
+* 12/2024. UbiComp'25 paper: WULoc, Wi-Fi to UWB CTC for Long-Range High-precision Localization.
+* 12/2024. MobiCom'25 paper: NanoScatter, ambient IoT backscatter system with IC design.
+* 10/2024. Invited to serve on [MobiSys'25](https://www.sigmobile.org/mobisys/2025/) TPC. Please consider submitting!
 * 08/2024. Invited to serve on [MobiCom'25](https://www.sigmobile.org/mobicom/2025/index.html) TPC. Please consider submitting!
 * 04/2024. MobiSys'24 paper: HybRadar, mmWave RADAR system with hybrid beamforming array.
 * 04/2024. Invited to serve on [NSDI'25](https://www.usenix.org/conference/nsdi25) TPC. Please consider submitting!
