@@ -5,7 +5,14 @@ permalink: /news_archive
 # author_profile: true
 ---
 
-# News before 2023
+# News before 2024
+* 11/2023. I visited groups and gave talks: Nov. 18th (first stop at SJTU), Nov. 27th to Dec. 1st in Beijing (28th at THU, 29th at PKU), Dec. 5th at NJU, 7th at USTC, 8th at HUST, 9th at NEU, 12th at ZJU, 14th at MSRA Shanghai, 16th at NWU, 25th at PolyU, 27th at CUHK, 28th at HKU. I really enjoyed the visits and conversations. Thanks for all hosts.
+* 08/2023. Invited to serve on [HotMobile'24](http://www.hotmobile.org/2024/) TPC. Please consider submitting!
+* 08/2023. Organized M-Cube User Workshop. Check [M-Cube website](http://m3.ucsd.edu/sdr/) for updates.
+* 08/2023. Officially graduated and start as an assistant professor at JHU.
+* 06/2023. Pass the final defense at UC San Diego!
+* 04/2023. NSDI'23 talk: Presented SlimWiFi.
+[More](https://renjiezhao.github.io/news_archive)
 * 12/2022. On job market (Faculty/Research positions).
 * 12/2022. NSDI'23 paper: SlimWiFi, Asymmetric Communication for Ultra-Low-Power IoT Radio.
 * 11/2022. Sensys'22 posters: Ultra-Wideband Backscatter and RF-Chord.
