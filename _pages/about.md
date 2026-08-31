@@ -16,6 +16,8 @@ For recent projects and lab details, please refer to the lab website [https://ho
 
 I am an Assistant Professor in the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). I am looking for self-motivated students on research projects in wireless networking and mobile computing. Please check my past papers to get a general understanding of my research style and check [Notes to the Prospective Students](https://renjiezhao.github.io/notes_to_students). 
 
+I have co-hosted the PhD Program Info Session in the CS department since 2023 to offer insight and advice to prospective applicants. The PhD application process is very different from other school applications, and there were many things I wish I had known before applying. I'm happy to share what I've learned. Feel free to reach out if you missed the session or would like to chat. I've really enjoyed my conversations with newcomers to the research world.
+
 My research interests are centered around wireless networking and mobile computing, with a particular focus on next-generation wireless network architectures (Ultra/Extreme WideBand, Joint Communication and Sensing, Internet of Things), novel radio hardware and software design (software-defined radio, wireless brain interfaces, low-power ultra-wide-band) and ubiquitous communication and sensing systems (smart homes, virtual/augmented reality, localization, ultra-reliable RFID for supply chains).
 
 We have published in several top conferences, including ACM SIGCOMM, MobiCom, and USNIEX NSDI. In recognition of my work on massive MIMO millimeter-wave software radio, I was awarded the Best Paper Award at ACM MobiCom 2020. My work on this project has also been highlighted by ACM GetMobile, the top pick of the ACM SIGMOBILE area.
@@ -47,4 +49,4 @@ actions on Wireless Communications, ACM Transactions on Sensor Networks, IEEE In
 
 
 # CV:  
-* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 02/2025)
+* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 08/2026)
